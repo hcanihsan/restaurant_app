@@ -3,7 +3,7 @@
 A new Flutter project.
 
 //////////////
-Aplikasi Restoran INDONESIA Dibuat oleh M. Budi Nur Ihsan untuk menyelesaikan submission 1 Belajar Fundamental Aplikasi Flutter.
+Aplikasi Restoran INDONESIA Dibuat oleh Ihsan untuk menyelesaikan submission Belajar Fundamental Aplikasi Flutter.
 /////////////
 
 ## Getting Started
